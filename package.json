@@ -1,0 +1,19 @@
+{
+  "name": "tonglink",
+  "version": "1.0.0",
+  "description": "Link situs bocoran rtp live slot online hari ini tertinggi paling akurat terbaru 2022.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlgaYamen/TongLink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlgaYamen/TongLink/issues"
+  },
+  "homepage": "https://github.com/AlgaYamen/TongLink#readme"
+}
